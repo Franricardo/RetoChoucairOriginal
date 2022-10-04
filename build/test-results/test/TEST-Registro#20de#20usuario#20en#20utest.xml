@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Registro de usuario en utest" tests="1" skipped="1" failures="0" errors="0" timestamp="2022-10-04T02:56:12" hostname="DESKTOP-L277DC1" time="0.073">
+  <properties/>
+  <testcase name="Registro de Ricardo en la pagina de utest" classname="Registro de usuario en utest" time="0.073">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4647881c
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST PENDING
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@1f6d27cc
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@327c7bea
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: Registro de Ricardo en la pagina de utest:Given : Ricardo desea registrarse en la pagina de utest, When : cuando el usuario ingresa los datos requeridos por el sistema
+| strNombre | strApellido | strEmail | strMesNacimiento | strDiaNacimiento | strAnoNacimiento | strCiudad | strZip | strPais | strDispositivoMovil | strModeloMovil | strSistemaOperativoMovil | strClave |
+| Ricardo | Herrera | fran@utest.com | July | 07 | 1991 | PanamaOeste | 507 | Panama | Apple | iphone 4 | iOS 11.1.2 | Turke0830. |, Then : El registro se completa al ver el boton de complete setup
+| strTextoFinal |
+| Complete Setup |
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [Registro de Ricardo en la pagina de utest:Given : Ricardo desea registrarse en la pagina de utest, When : cuando el usuario ingresa los datos requeridos por el sistema
+| strNombre | strApellido | strEmail | strMesNacimiento | strDiaNacimiento | strAnoNacimiento | strCiudad | strZip | strPais | strDispositivoMovil | strModeloMovil | strSistemaOperativoMovil | strClave |
+| Ricardo | Herrera | fran@utest.com | July | 07 | 1991 | PanamaOeste | 507 | Panama | Apple | iphone 4 | iOS 11.1.2 | Turke0830. |, Then : El registro se completa al ver el boton de complete setup
+| strTextoFinal |
+| Complete Setup |]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [Registro de Ricardo en la pagina de utest:Given : Ricardo desea registrarse en la pagina de utest, When : cuando el usuario ingresa los datos requeridos por el sistema
+| strNombre | strApellido | strEmail | strMesNacimiento | strDiaNacimiento | strAnoNacimiento | strCiudad | strZip | strPais | strDispositivoMovil | strModeloMovil | strSistemaOperativoMovil | strClave |
+| Ricardo | Herrera | fran@utest.com | July | 07 | 1991 | PanamaOeste | 507 | Panama | Apple | iphone 4 | iOS 11.1.2 | Turke0830. |, Then : El registro se completa al ver el boton de complete setup
+| strTextoFinal |
+| Complete Setup |]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: Registro de Ricardo en la pagina de utest
+---------------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
